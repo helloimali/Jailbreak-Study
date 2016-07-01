@@ -1,0 +1,9 @@
+Package: com.malik.iosreproject
+Name: iOSREProject
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ali M
+Author: Ali M
+Section: Tweaks

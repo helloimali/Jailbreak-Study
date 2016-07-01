@@ -1,0 +1,6 @@
+Commands:
+
+“class-dump” - http://stevenygard.com/projects/class-dump/
+
+PG 46:
+Some default values of NIC can be customized, please refer to http://iphonedevwiki.net/index.php/NIC#How_to_set_default_values.
